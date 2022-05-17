@@ -1,5 +1,7 @@
 AI-program that plays Tic-Tac-Toe
 
+Implemented with a minmax algorithm
+
 2 versions:
 AI plays against itself, always a draw
 AI plays against a player with a simple UI, either a draw or a win for AI
