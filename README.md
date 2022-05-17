@@ -14,8 +14,8 @@ Typical AI vs AI
 VS player allows the player to enter a number from 0 to 8 representing a specific cell on the field, then AI takes a turn:  
 ![alt text](https://github.com/LuckyKot/minmax/blob/17c80e998102e5c896121f742cfa5bbee055e651/example_player1.png)
 
-Example of DRAW:  
+Example of a DRAW:  
 ![alt text](https://github.com/LuckyKot/minmax/blob/17c80e998102e5c896121f742cfa5bbee055e651/example_player2.png)
 
-Example of AI Victory:  
+Example of an AI Victory:  
 ![alt text](https://github.com/LuckyKot/minmax/blob/17c80e998102e5c896121f742cfa5bbee055e651/example_player3.png)
